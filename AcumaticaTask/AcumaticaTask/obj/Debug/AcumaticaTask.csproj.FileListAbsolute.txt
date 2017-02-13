@@ -1,0 +1,20 @@
+C:\Users\Roman\Desktop\учеба или что-то в этом роде МАИ\задачки с собеседований\AcumaticaTask\AcumaticaTask\bin\Debug\AcumaticaTask.exe.config
+C:\Users\Roman\Desktop\учеба или что-то в этом роде МАИ\задачки с собеседований\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\учеба или что-то в этом роде МАИ\задачки с собеседований\AcumaticaTask\AcumaticaTask\bin\Debug\AcumaticaTask.exe
+C:\Users\Roman\Desktop\учеба или что-то в этом роде МАИ\задачки с собеседований\AcumaticaTask\AcumaticaTask\bin\Debug\AcumaticaTask.pdb
+C:\Users\Roman\Desktop\учеба или что-то в этом роде МАИ\задачки с собеседований\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.dll
+C:\Users\Roman\Desktop\учеба или что-то в этом роде МАИ\задачки с собеседований\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.Support.dll
+C:\Users\Roman\Desktop\учеба или что-то в этом роде МАИ\задачки с собеседований\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.xml
+C:\Users\Roman\Desktop\учеба или что-то в этом роде МАИ\задачки с собеседований\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.Support.xml
+C:\Users\Roman\Desktop\учеба или что-то в этом роде МАИ\задачки с собеседований\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.exe
+C:\Users\Roman\Desktop\учеба или что-то в этом роде МАИ\задачки с собеседований\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.pdb
+C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\bin\Debug\AcumaticaTask.exe.config
+C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.exe
+C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.pdb
+C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\bin\Debug\AcumaticaTask.exe
+C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\bin\Debug\AcumaticaTask.pdb
+C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.dll
+C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.Support.dll
+C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.xml
+C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.Support.xml
+C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.csprojResolveAssemblyReference.cache

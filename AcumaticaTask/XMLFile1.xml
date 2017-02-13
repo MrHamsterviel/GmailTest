@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<TestData>
+  <TestCase browser ="Firefox">
+    <UserName>TestUserAcumatica</UserName>
+    <Passwd>qwerty987654321</Passwd>
+    <MsgReciever>TestUserAcumatica@gmail.com </MsgReciever>
+  </TestCase> 
+</TestData>  
