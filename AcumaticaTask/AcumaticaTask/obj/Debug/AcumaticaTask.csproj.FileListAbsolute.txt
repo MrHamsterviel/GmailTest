@@ -18,3 +18,6 @@ C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.Support.d
 C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.xml
 C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.Support.xml
 C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.csprojResolveAssemblyReference.cache
+D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\bin\Debug\AcumaticaTask.exe.config
+D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.exe
+D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.pdb

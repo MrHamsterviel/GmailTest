@@ -51,6 +51,8 @@ namespace AcumaticaTask
             OpenBrowser(testparams._BrowserName);
             Navigate("https://accounts.google.com/");
 
+            //First commit with GitHub
+
             QuitBrowser();
 
         }
