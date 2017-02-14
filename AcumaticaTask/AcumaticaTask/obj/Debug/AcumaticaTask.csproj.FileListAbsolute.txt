@@ -21,3 +21,10 @@ C:\Users\Roman\Desktop\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.cspro
 D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\bin\Debug\AcumaticaTask.exe.config
 D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.exe
 D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.pdb
+D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\bin\Debug\AcumaticaTask.exe
+D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\bin\Debug\AcumaticaTask.pdb
+D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.dll
+D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.Support.dll
+D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.xml
+D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\bin\Debug\WebDriver.Support.xml
+D:\GmailTest\GmailTest\AcumaticaTask\AcumaticaTask\obj\Debug\AcumaticaTask.csprojResolveAssemblyReference.cache
