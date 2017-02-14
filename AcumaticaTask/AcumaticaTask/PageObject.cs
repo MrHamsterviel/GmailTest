@@ -8,7 +8,7 @@ using OpenQA.Selenium.Support.PageObjects;
 
 namespace AcumaticaTask
 {
-    class PageObject: WebElement
+    class PageObject: Browser
     {
            
         public class AccountPage

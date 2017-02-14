@@ -12,7 +12,7 @@ namespace AcumaticaTask
 {
     class Browser
     {
-        public static IWebDriver _webDriver;
+        protected static IWebDriver _webDriver;
         
         public static IWebDriver OpenBrowser(string BrowserName)
         {
