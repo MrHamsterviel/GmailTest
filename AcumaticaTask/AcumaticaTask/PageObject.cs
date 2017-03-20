@@ -32,6 +32,14 @@ namespace AcumaticaTask
 
             [FindsBy(How = How.Id, Using = "next")]
             private IWebElement btnNext { get; set; }
+            
+            /*
+            public AccountPage OpenPage()
+            {
+                //acts to open AccountPage throw the UI acts or throw the API
+                return new AccountPage();
+            }
+            */
 
         }
 
